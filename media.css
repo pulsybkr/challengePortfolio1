@@ -1,0 +1,51 @@
+@media only screen and (mmin-width: 1360px)
+ {
+    .glass{
+        width: 80%;
+    }
+
+    .skill
+    {
+        margin: 2rem;
+    }
+
+    .circle1
+    {
+        top: 5%;
+        right: 0.5%;
+    }
+
+    .circle2
+{
+    bottom: 5%;
+    left: 3%;
+
+}
+}
+
+@media only screen and (max-width: 970px)
+ {
+    .glass{
+        width: 100%;
+    }
+
+    /*
+    .skill
+    {
+        margin: 3rem;
+    }
+
+    .circle1
+    {
+        top: 5%;
+        right: 0.5%;
+    }
+
+    .circle2
+{
+    bottom: 5%;
+    left: 3%;
+
+}
+*/
+}
